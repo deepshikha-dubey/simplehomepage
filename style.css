@@ -1,0 +1,24 @@
+
+.container {
+	text-align: center;
+
+}
+
+.module-list{
+	text-align: center;
+	
+}
+.module-list img{
+	marginn-left:40px;
+	margin-right: 40px;
+	line-height: 30px;
+	width: 30px;
+}
+
+@media screen and (max-width: 767px){
+	.carousel-item{
+         width: 50%;
+
+}
+}
+
